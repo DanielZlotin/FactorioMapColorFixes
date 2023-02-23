@@ -1,2 +1,2 @@
-# FactorioMapPollutionColor
-Factorio mod for better map pollution visibility
+# FactorioMapColorFixes
+Factorio mod for better map color visibility
