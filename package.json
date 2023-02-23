@@ -1,0 +1,17 @@
+{
+  "name": "MapPollutionVisibility",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "email": "zlotindaniel@gmail.com",
+    "name": "Daniel Zlotin"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "latest"
+  },
+  "scripts": {
+    "build": "node build"
+  }
+}

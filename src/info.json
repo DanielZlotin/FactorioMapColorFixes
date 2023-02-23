@@ -1,0 +1,15 @@
+{
+  "name": "MapPollutionVisibility",
+  "factorio_version": "1.1",
+  "title": "Map Pollution Visibility",
+  "author": "DanielZlotin",
+  "contact": "https://github.com/DanielZlotin/FactorioMapPollutionVisibility",
+  "homepage": "https://github.com/DanielZlotin/FactorioMapPollutionVisibility",
+  "description": "# Map Pollution Visibility\nFactorio mod for better map pollution visibility, changing the color to translucent white\n",
+  "source": "https://github.com/DanielZlotin/FactorioMapPollutionVisibility",
+  "dependencies": [
+    "base >= 1.1.41"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
+}
