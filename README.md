@@ -1,2 +1,2 @@
 # FactorioMapColorFixes
-Factorio mod for better map color visibility
+Factorio mod for better map colors visibility
